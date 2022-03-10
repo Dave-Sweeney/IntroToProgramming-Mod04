@@ -59,7 +59,7 @@ namespace AlgorithmDataStructures_CS
             // display a course in the list by passing a key
             displayList(myCourses, "CS101");
 
-            // EX 2 - Task 5:  Remove values from a list
+            // EX 2 - Task 3.5:  Remove values from a list
             // Remove an item from the myCourses list using the key
             removeListItem(myCourses, "CS301");
 
