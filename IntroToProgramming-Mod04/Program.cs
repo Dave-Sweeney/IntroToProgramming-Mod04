@@ -128,7 +128,7 @@ namespace AlgorithmDataStructures_CS
 
         static void removeListItem(SortedList list, string key)
         {
-            Console.WriteLine($"{ list[key] } has been removed.");
+            Console.WriteLine($"{ key }: { list[key] } has been removed.");
             list.Remove(key);
         }
     }
