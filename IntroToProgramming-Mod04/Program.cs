@@ -18,17 +18,14 @@ namespace AlgorithmDataStructures_CS
             // EX 2 - Task 1.3:  Add grades to the array
             // Call the addGrades method, passing it the grdsArray
             addGrades(grdsArray);
-            
+
             // EX 2 - Task 1.4:  Read grades from the array
-            displayGrades(grdsArray);
-            
-            
             // After adding grades to the array, call the displayGrades method
             // to print out the grades to the console window
             // Use the foreach construct to iterate over the array
-
-
-
+            displayGrades(grdsArray);
+            
+            
             // EX 2 - Task 2.2:  Implement the System.Colections.Stack class
             // Create a new Stack object called myStack
             Stack myStack = new Stack();
