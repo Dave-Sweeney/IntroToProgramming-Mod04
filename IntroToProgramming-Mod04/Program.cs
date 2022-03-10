@@ -39,6 +39,7 @@ namespace AlgorithmDataStructures_CS
             // Call the popStack() method twice to remove the top two items from stack
             // The popStack method will display each popped item to the console window
             popStack(myStack);
+            popStack(myStack);
             
             
             // EX 2 - Task 3.2:  Create a new .Net SortedList object called myCourses
